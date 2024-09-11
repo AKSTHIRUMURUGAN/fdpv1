@@ -1,0 +1,35 @@
+{
+  "name": "fdp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-oauth/google": "^0.12.1",
+    "bcryptjs": "^2.4.3",
+    "formidable": "^3.5.1",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.6.1",
+    "next": "14.2.9",
+    "react": "^18",
+    "react-calendar": "^5.0.0",
+    "react-date-picker": "^11.0.0",
+    "react-datepicker": "^7.3.0",
+    "react-dom": "^18",
+    "react-icons": "^5.3.0",
+    "react-router-dom": "^6.26.2",
+    "recharts": "^2.12.7",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.9",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
